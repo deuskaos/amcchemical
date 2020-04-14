@@ -1,2 +1,0 @@
-# amcchemical
-AMC Chemical Website

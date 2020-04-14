@@ -1,0 +1,22 @@
+/* PLEASE DO NOT COPY AND PASTE THIS CODE. */(function(){var CFG='___grecaptcha_cfg';if(!window[CFG]){window[CFG]={};}var GR='grecaptcha';if(!window[GR]){window[GR]={};}window[GR].ready=window[GR].ready||function(f){(window[CFG]['fns']=window[CFG]['fns']||[]).push(f);};(window[CFG]['render']=window[CFG]['render']||[]).push('onload');window['__google_recaptcha_client']=true;var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='http://web.archive.org/web/20190105224328/https://www.gstatic.com/recaptcha/api2/v1545073489967/recaptcha__es.js';var elem=document.querySelector('script[nonce]');var n=elem&&(elem['nonce']||elem.getAttribute('nonce'));if(n){po.setAttribute('nonce',n);}var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();
+/*
+     FILE ARCHIVED ON 22:43:28 Jan 05, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:09:11 Apr 13, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.021
+  exclusion.robots.policy: 0.31
+  RedisCDXSource: 15.407
+  captures_list: 387.532
+  load_resource: 279.822
+  PetaboxLoader3.datanode: 419.343 (4)
+  PetaboxLoader3.resolve: 125.276
+  LoadShardBlock: 341.887 (3)
+  exclusion.robots: 0.329
+  CDXLines.iter: 20.215 (3)
+*/
