@@ -7605,6 +7605,11 @@ button.bg-dark:focus {
   margin-bottom: 3rem !important;
 }
 
+.mb-6,
+.my-6 {
+  margin-bottom: 8rem !important;
+}
+
 .ml-5,
 .mx-5 {
   margin-left: 3rem !important;
@@ -9691,6 +9696,7 @@ button.bg-dark:focus {
   }
 }
 @media (min-width: 992px) {
+
   .text-lg-left {
     text-align: left !important;
   }
@@ -10157,4 +10163,17 @@ strong {
 
 .navbar-scrolled img {
   width: 150px !important;
+}
+
+@media (max-width: 992px) {
+  #logotipo {
+    width: 150px;
+  }
+  .navbar {
+    padding: 10px !important;
+  }
+  .masthead h4,
+  #about img {
+    display: none;
+  }
 }
