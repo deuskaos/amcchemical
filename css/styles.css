@@ -10151,6 +10151,11 @@ li {
 
 #contact ul {
   float: left;
+  padding-left: 0;
+}
+
+.fusion {
+  margin: 20px 0 40px !important;
 }
 
 #contact img {
